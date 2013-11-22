@@ -27,8 +27,9 @@ For a full directory and more information on ODLs check out [OpenDeviceLab.com](
 1. Fork this repo.
 2. Take a moment to understand, and follow, the file structure and naming conventions.
 3. Make your changes and additions.
-4. Send a pull request. 
-5. Feel like a hero for having done something truly awesome!
+4. Double-check your additions can go under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) license.
+5. Send a pull request. 
+6. Feel like a hero for having done something truly awesome!
 
 If you feel to be a superfrequent committer reach out to us and you will be added to the team, to ease up things.
 
@@ -38,7 +39,7 @@ We could have used branches for L10n, but as this is (primarily) targeted toward
 
 It's dead simple:
 
-- Every logical entity of content has its own subfolder in the appropriate parent directory.
+- Every logical entity of content has its own subfolder in the appropriate parent directory, which is to be named in english.
 
 - Every file that is or should become available in localized versions is to be prefixed with a two-digit country code - we use the [IETF language tag](http://en.wikipedia.org/wiki/IETF_language_tag) - and to be named in that respective language. 
 
