@@ -39,9 +39,9 @@ We could have used branches for L10n, but as this is (primarily) targeted toward
 
 It's dead simple:
 
-- Every logical entity of content has its own subfolder in the appropriate parent directory, which is to be named in english.
+- Every logical entity of content has its own subfolder in the appropriate parent directory, which is to be named in English.
 
-- Every file that is or should become available in localized versions is to be prefixed with a two-digit country code - we use the [IETF language tag](http://en.wikipedia.org/wiki/IETF_language_tag) - and to be named in that respective language. 
+- Every file that is or should become available in localized versions is to be prefixed with at least a two-digit country (language, region, script) code - we use the [IETF language tag](http://en.wikipedia.org/wiki/IETF_language_tag) - and to be named in that respective language. 
 
 **Examples:** 
 
