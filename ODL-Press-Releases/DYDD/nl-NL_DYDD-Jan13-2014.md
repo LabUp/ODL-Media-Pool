@@ -16,4 +16,4 @@ Ter vergelijking: een autofabrikant berekend een groot deel van de kosten voor h
 Als je hebt besloten om wat van je rommel op te ruimen door een Open Device Lab te stenen, ga dan nu naar http://OpenDeviceLab.com/DYDD. Met 3 kleine stappen geef je je oude apparaat een nieuw, betekenisvol leven.
 
 Meer informatie en royalty-vrije media over Open Device Labs kan je vinden op http://lab-up.org.
-Media contact: Andre Jay Meissner, media@lab-up.org
+Media contact: Andre Jay Meissner, media@lab-up.org, +4915128294015

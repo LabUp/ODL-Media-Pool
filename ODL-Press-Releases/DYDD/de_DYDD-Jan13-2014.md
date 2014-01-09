@@ -14,4 +14,4 @@ Wer sein Altgerät also an ein ODL weitergibt, unterstützt damit herstellerunab
 Wer jetzt beschließt, sich von einem Gerät zu trennen und damit ein Open Device Lab zu unterstützen, ruft die Website http://OpenDeviceLab.com/DYDD auf. Nur drei einfache Schritte sind es bis zu einer sinnvollen Weiternutzung des eigenen Altgeräts.
 
 Mehr Informationen und freies Bildmaterial zu Open Device Labs auf http://lab-up.org.
-Pressekontakt: Andre Jay Meissner, media@lab-up.org
+Pressekontakt: Andre Jay Meissner, media@lab-up.org, +4915128294015

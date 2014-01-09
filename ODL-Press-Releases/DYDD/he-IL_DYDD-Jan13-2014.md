@@ -22,4 +22,4 @@
 אם החלטת להפטר קצת מעומס המכשירים הישנים ובחרת לתמוך ב״מעבדה הפתוחה״ (ODL) אנא בקר אותנו באתר - http://OpenDeviceLab.com/DYDD
 
 למידע נוסף ללא תשלום - http://lab-up.org.
-ליצירת קשר Andre Jay Meissner, media@lab-up.org
+ליצירת קשר Andre Jay Meissner, +4915128294015, media@lab-up.org
