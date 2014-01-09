@@ -1,19 +1,20 @@
-Do not release before January 13, 2014
+Ne pas publier avant le 13 janvier 2014
 
-# Donate Your Dusty Device
-*Put your old devices to good use*
+# Donnez vos appareils poussiéreux
 
-*Start clutter-free into the new year - and help Open Device Labs (ODLs) around the globe with their initiative "Donate Your Dusty Device" via their website http://OpenDeviceLab.com/DYDD.*
+*Offrez une nouvelle utilité à vos anciens appareils*
 
-*Open Device Labs (ODLs) are shared community pools of internet connected devices such as smartphones, tablets, or consoles, and are open for developers to test their websites and smartphone apps.*
+*Commencez la nouvelle année sans encombrement - et soutenez les Open Device Labs (ODLs) à travers le monde dans leur initiative "Donnez vos appareils poussiéreux" via leur site internet http://OpenDeviceLab.com/DYDD.*
 
-If you just got yourself a new smartphone or tablet and are looking for a helpful new use for your old device, consider donating it to an Open Device Lab. Over 90 Labs have been established already at locations all over the globe. Everyone benefits from access to a free device testing pool - including donators.
+*Les Open Device Labs (ODLs) sont des laboratoires communautaires regroupant une multitude d’appareils connectés tels que des smartphones, des tablettes ou des consoles et sont ouvertes aux développeurs pour tester leurs interfaces web et applications mobiles.*
 
-Websites or apps unfortunately do not always work as expected, especially across mobile devices. Worldwide, there are around 20,000 different models, and about 15 new devices are released every week. Each variant of a device is unique and comes with its own technical quirks and hurdles. Having access to these varied devices, both modern and older, is often difficult. This poses problems to developers creating new content. This often results in quality assurance being reduced in priority, with websites often not tested against enough real devices.
+Si vous avez justement fait l’acquisition d’un nouveau smartphone ou d’une nouvelle tablette et cherchez une seconde utilité à vos anciens appareils, pensez à les donner à un Open Device Lab. Il existe déjà plus de 90 Labs autour du globe. Tout le monde peut y accéder gratuitement, y compris les donateurs.
 
-As a comparison: car manufacturers calculate a significant portion of cost of a car for testing purposes. But when it comes to the production of digital experiences, budget cuts are very likely to hit the test budgets first. People who support ODLs with device donations are supporting local and international developers and their users, independent of manufacturers or brands.
+Les sites internet et les applications ne fonctionnent malheureusement pas toujours comme prévu, spécialement sur les dispositifs mobiles. Il existe environ 20'000 modèles d’appareils différents à travers le monde et 15 nouveaux modèles apparaissent chaque semaine sur le marché. Chacune des variantes d'un appareil est unique et arrive avec ses propres particularités techniques. Avoir accès à ces appareils, qu'ils soient modernes ou désuets, est souvent laborieux. Et cela pose notamment des problèmes aux développeurs créant de nouveaux contenus. Il en résulte une diminution de la qualité des sites internet qui ne sont pas testés assez sur des appareils réels.
 
-If you just decided to get rid of some clutter by supporting an Open Device Lab, go to http://OpenDeviceLab.com/DYDD now. Only three easy steps separate your functional old device from a meaningful new existence for the greater good.
+En guise de comparaison: les constructeurs automobiles attribuent une part significative de leur budget au test de leurs véhicules. Mais quand il s'agit de production digitale, les coupures de budget concernent en premier lieu les tests. Les personnes qui supportent les ODLs grâce à leurs dons d'appareils soutiennent localement et internationalement les développeurs, les producteurs indépendants et les marques dans leur travail.
 
-More information and royalty free media on the topic of Open Device Labs on http://lab-up.org. 
-Media contact: Andre Jay Meissner, media@lab-up.org
+Si vous décidez justement de vous débarrasser de vos appareils en soutenant un Open Device Lab, rendez-vous maintenant sur http://OpenDeviceLab.com/DYDD. Seulement trois petites étapes séparent votre ancien appareil fonctionnel d’une nouvelle existence, pour le plus grand bien de tous.
+
+Pour davantage d’informations au sujet des Open Device Labs, rendez-vous sur http://lab-up.org.
+Contact médias : Andre Jay Meissner, media@lab-up.org
