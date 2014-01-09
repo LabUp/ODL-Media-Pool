@@ -6,7 +6,7 @@ Ne pas publier avant le 13 janvier 2014
 
 *Commencez la nouvelle année sans encombrement - et soutenez les Open Device Labs (ODLs) à travers le monde dans leur initiative "Donnez vos appareils poussiéreux" via leur site internet http://OpenDeviceLab.com/DYDD.*
 
-*Les Open Device Labs (ODLs) sont des laboratoires communautaires regroupant une multitude d’appareils connectés tels que des smartphones, des tablettes ou des consoles et sont ouvertes aux développeurs pour tester leurs interfaces web et applications mobiles.*
+*Les Open Device Labs (ODLs) sont des laboratoires communautaires regroupant une multitude d’appareils connectés tels que des smartphones, des tablettes ou des consoles et sont ouverts aux développeurs pour tester leurs interfaces web et applications mobiles.*
 
 Si vous avez justement fait l’acquisition d’un nouveau smartphone ou d’une nouvelle tablette et cherchez une seconde utilité à vos anciens appareils, pensez à les donner à un Open Device Lab. Il existe déjà plus de 90 Labs autour du globe. Tout le monde peut y accéder gratuitement, y compris les donateurs.
 
