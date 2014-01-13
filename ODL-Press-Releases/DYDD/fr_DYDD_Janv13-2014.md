@@ -17,4 +17,4 @@ En guise de comparaison: les constructeurs automobiles attribuent une part signi
 Si vous décidez justement de vous débarrasser de vos appareils en soutenant un Open Device Lab, rendez-vous maintenant sur http://OpenDeviceLab.com/DYDD. Seulement trois petites étapes séparent votre ancien appareil fonctionnel d’une nouvelle existence, pour le plus grand bien de tous.
 
 Pour davantage d’informations au sujet des Open Device Labs, rendez-vous sur http://lab-up.org.
-Contact médias : Andre Jay Meissner, media@lab-up.org
+Contact médias : Andre Jay Meissner, media@lab-up.org, +4915128294015
