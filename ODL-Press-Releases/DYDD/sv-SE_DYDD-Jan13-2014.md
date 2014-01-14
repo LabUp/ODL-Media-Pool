@@ -1,5 +1,3 @@
-Får ej spridas innan 13/1 2014
-
 # Donera Din Dammiga Pryl
 *Låt dina gamla enheter komma till användning*
 

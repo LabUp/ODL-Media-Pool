@@ -1,4 +1,4 @@
-Do not release before January 13, 2014
+For immediate release
 
 # Donate Your Dusty Device
 *Put your old devices to good use*

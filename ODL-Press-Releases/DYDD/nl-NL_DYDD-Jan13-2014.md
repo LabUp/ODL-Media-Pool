@@ -1,5 +1,3 @@
-Niet vrijgeven voor 13 januari 2014
-
 # Donate Your Dusty Device
 *Zet je oude apparaten in voor nieuwe technologieën*
 

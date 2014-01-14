@@ -1,5 +1,3 @@
-Ne pas publier avant le 13 janvier 2014
-
 # Donnez vos appareils poussiéreux
 
 *Offrez une nouvelle utilité à vos anciens appareils*
