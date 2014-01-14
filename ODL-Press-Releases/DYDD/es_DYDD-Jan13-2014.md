@@ -2,7 +2,7 @@
 
 *De a sus antiguos dispositivos un mejor uso.*
 
-Comience libre de desorden este nuevo año, y a su vez ayude a los laboratorios Abiertos de Dispositivos Móviles ( ODLs ) en todo el mundo con su iniciativa "Dona tu equipo en des-uso" a través de su página web http://OpenDeviceLab.com/DYDD.
+Comience libre de desorden este nuevo año, y a su vez ayude a los laboratorios Abiertos de Dispositivos Móviles (ODLs) en todo el mundo con su iniciativa "Dona tu equipo en des-uso" a través de su página web http://OpenDeviceLab.com/DYDD.
 
 Los Laboratorio Abierto de Dispositivos ( ODLs ), son una comunidad, que dispone libremente dispositivos conectados a Internet, como Teléfonos Inteligentes, Tablets o Consolas, y están abiertos a los desarrolladores para probar sus sitios web y aplicaciones.
 
@@ -14,4 +14,5 @@ Como comparación: los fabricantes de automóviles calculan un porcentaje signif
 
 Si usted acaba de decidir apoyar un laboratorio abierto de dispositivos ODL, vaya al sitio web http://OpenDeviceLab.com/DYDD ahora. Sólo tres sencillos pasos separan su antiguo dispositivo funcional de un nuevo uso con sentido por un bien mayor.
 
-Más información y libre los medios de comunicación: http://lab-up.org Contacto: Andre Jay Meissner, media@lab-up.org , +4915128294015
+Más información y libre los medios de comunicación: http://lab-up.org 
+Contacto: Andre Jay Meissner, media@lab-up.org, +4915128294015
